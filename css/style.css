@@ -1,13 +1,21 @@
-.navbar{
+.navbarnav{
     font-size: larger;
     font-family: "Racing Sans One", sans-serif;
     font-weight: 400;
     font-style: normal;
+    font-size: 50px;
+}
+.navbarnav{
+    text-align: right;
 }
 .navbar{
-    justify-content: center ;
-    background-image: https;
+    background-color: #F2E3E6;
+    
 }
+.navbar{
+    padding-top: 0%;
+}
+
 .about{
     font-family: "Radley", serif;
     font-weight: 400;
