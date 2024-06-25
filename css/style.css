@@ -4,16 +4,19 @@
     font-weight: 400;
     font-style: normal;
     font-size: 50px;
+    text-align: right;
 }
 .navbarnav{
-    text-align: right;
+    text-align: right !important;
 }
 .navbar{
     background-color: #F2E3E6;
+   
     
 }
 .navbar{
     padding-top: 0%;
+    padding-bottom: 100rem;
 }
 
 .about{
