@@ -6,9 +6,10 @@
     
 }
 .navbarnav{
-    margin-bottom: 20.5%;
+    margin-bottom: 2px;
     text-align: right !important;
     width: 100%;
+    padding: 0px;
 }
 .navbar{
     background-color: #F2E3E6;
@@ -17,10 +18,7 @@
     
     
 }
-.navbar{
-    padding-top: 0%;
-   
-}
+
 .about{
     font-family: "Radley", serif;
     font-weight: 400;
