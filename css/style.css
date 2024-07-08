@@ -25,4 +25,65 @@
     font-style: normal;
 }
 
+.work{
+    font-family: "Radley", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.reviews{
+    font-family: "Radley", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.contact-form {
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.contact-form h2 {
+    margin-bottom: 20px;
+}
+.contact-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+.contact-form input, .contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.contact-form button {
+    padding: 10px 20px;
+    background-color: #d4aef1;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.contact-form button:hover {
+    background-color: #bc7eec;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+ul li, ul img {
+    margin: 10px 0;
+}
+ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
 
